@@ -118,6 +118,8 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Zhuhai, China"
   email            : "wanghlin25@mail2.sysu.edu.cn" 
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&tzom=-480&user=gtZWxS4AAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Haolin-Wang-10"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
